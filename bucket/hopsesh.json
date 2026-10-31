@@ -1,16 +1,16 @@
 {
-    "version": "0.6.4",
+    "version": "0.7.0",
     "description": "Move Claude Code and Codex sessions between machines and agents",
     "homepage": "https://github.com/roeehrl/hopsesh",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/roeehrl/hopsesh/releases/download/v0.6.4/hopsesh_0.6.4_windows_amd64.zip",
-            "hash": "c1b30b30ec97aea58f8f96f60c00f068b350ca12c6257e96f39d1ffe80cc3406"
+            "url": "https://github.com/roeehrl/hopsesh/releases/download/v0.7.0/hopsesh_0.7.0_windows_amd64.zip",
+            "hash": "7879a2ee586781631eb469b177cc19aaec080e9a96d76b0a9a407589c09e32f2"
         },
         "arm64": {
-            "url": "https://github.com/roeehrl/hopsesh/releases/download/v0.6.4/hopsesh_0.6.4_windows_arm64.zip",
-            "hash": "c7a7b8d24623242b6a87d87429c6b9d2d3ac9e6edef3425b1426c482cf0ff2bf"
+            "url": "https://github.com/roeehrl/hopsesh/releases/download/v0.7.0/hopsesh_0.7.0_windows_arm64.zip",
+            "hash": "d1e6d291e536eccb496fdb1188d28a5cad9075070949dc0e994d0a4d8af39a45"
         }
     },
     "bin": "hopsesh.exe",
